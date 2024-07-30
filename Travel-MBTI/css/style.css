@@ -1,0 +1,12 @@
+#main{
+  background-color: white;
+  width: 80;
+  text-align: center;
+  border-radius: 20px;
+}
+*{
+  font-family: 'Nanum Pen Script', 'cursive';
+}
+p{
+  font-size: 21px;
+}
